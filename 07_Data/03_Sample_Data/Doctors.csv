@@ -1,0 +1,16 @@
+doctor_id,doctor_name,department_id,consultation_fee
+1,"Dr. Amit Shah",1,800
+2,"Dr. Neha Patel",1,900
+3,"Dr. Rahul Mehta",1,1000
+4,"Dr. Priya Desai",2,900
+5,"Dr. Karan Joshi",2,800
+6,"Dr. Riya Shah",2,850
+7,"Dr. Mehul Trivedi",3,700
+8,"Dr. Anjali Patel",3,750
+9,"Dr. Jay Mehta",3,800
+10,"Dr. Pooja Shah",4,600
+11,"Dr. Nisha Dave",4,650
+12,"Dr. Harsh Patel",5,700
+13,"Dr. Simran Shah",5,750
+14,"Dr. Dev Joshi",6,500
+15,"Dr. Krupa Mehta",6,550
